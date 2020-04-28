@@ -3,7 +3,7 @@ function apicartConfigure(config) {
 	apicartConfig.push(config)
 }
 apicartConfigure({
-	token: "9mCu3DlBCa4REI?Q7kKly!Rw6!_FvD8K_dgPXe1b20?r6!sPTQMyCpq_ADt!jXOD",
+	token: "u0!nDQ4NuyrGqRQetu2nKKF7MBexHZOpbp4KQG0ayQPUKniI7O13G!RzpoEGITJ4",
 	currencySymbol: '$',
 	currencySymbolPositionLeft: true,
 	currencySymbolWithSpace: false,
