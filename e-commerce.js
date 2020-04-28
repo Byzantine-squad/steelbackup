@@ -7,21 +7,21 @@ apicartConfigure({
 	currencySymbol: '$',
 	currencySymbolPositionLeft: true,
 	currencySymbolWithSpace: false,
-	cart: {
-		apiUrl: 'https://store-api.apicart.dev'
-	},
-	customer: {
-		apiUrl: 'https://store-api.apicart.dev'
-	},
-	order: {
-		apiUrl: 'https://store-api.apicart.dev'
-	},
-	paymentMethods: {
-		apiUrl: 'https://store-api.apicart.dev'
-	},
-	shippingMethods: {
-		apiUrl: 'https://store-api.apicart.dev'
-	},
+	// cart: {
+	// 	apiUrl: 'https://store-api.apicart.dev'
+	// },
+	// customer: {
+	// 	apiUrl: 'https://store-api.apicart.dev'
+	// },
+	// order: {
+	// 	apiUrl: 'https://store-api.apicart.dev'
+	// },
+	// paymentMethods: {
+	// 	apiUrl: 'https://store-api.apicart.dev'
+	// },
+	// shippingMethods: {
+	// 	apiUrl: 'https://store-api.apicart.dev'
+	// },
 	init: function() {
 		apicart.cartDropdown.render({
 			el: '.cart-dropdown',
